@@ -1,6 +1,6 @@
 # UMPVi
 
-Import database using the provided database file.
+Import database using the provided database file in DATABASE folder.
 Database name: umpvi
 
 Locate the project into XAMPP/htdocs folder
